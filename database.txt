@@ -1,0 +1,4 @@
+43453,Pepsi,2323,32,Beverages
+23432,Coke,4234,2342,Beverages
+2345,Isda,2345,233,Fish
+3453,Pandesal,2343,233,Meat
